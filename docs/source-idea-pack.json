@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\AdobePlugin\\created_idea_005_artboard-batch-export-queue",
+  "zip": "D:\\AI\\AdobePlugin\\created_idea_005_artboard-batch-export-queue\\idea_005_artboard-batch-export-queue.zip",
+  "rank": 25,
+  "domain": "AdobePlugin",
+  "ideaNo": 5,
+  "title": "アートボード一括書き出しキュー",
+  "overview": "SNS、BOOTH、資料用など用途別に形式、倍率、命名、出力先をプリセット化する。",
+  "problem": "用途別サイズを書き出すたびに設定し直す手間がある。",
+  "differentiation": "書き出し前プレビュー、命名規則、用途メモ、再実行履歴を同じキューに残す。"
+}
