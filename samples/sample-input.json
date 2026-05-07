@@ -1,0 +1,20 @@
+{
+  "product": {
+    "repository": "artboard-batch-export-queue",
+    "title": "アートボード一括書き出しキュー"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "アートボード一括書き出しキュー 正常ケース",
+      "source": "source-ok",
+      "artboard": "artboard-ok",
+      "preset": "preset-ok",
+      "destination": "destination-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "namingRule": "ready"
+    }
+  ]
+}

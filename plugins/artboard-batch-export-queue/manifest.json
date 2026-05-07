@@ -1,0 +1,7 @@
+{
+  "id": "artboard-batch-export-queue",
+  "name": "アートボード一括書き出しキュー",
+  "host": "Illustrator",
+  "version": "0.1.0",
+  "entry": "src/main.jsx"
+}
