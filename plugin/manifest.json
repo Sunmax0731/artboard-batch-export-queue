@@ -1,0 +1,18 @@
+{
+  "id": "com.sunmax0731.artboard-batch-export-queue",
+  "name": "アートボード一括書き出しキュー",
+  "version": "0.1.0-alpha.1",
+  "manifestVersion": 5,
+  "host": {
+    "app": "Illustrator",
+    "minVersion": "1.0.0"
+  },
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "closed-alpha-panel",
+      "label": "アートボード一括書き出しキュー",
+      "mainPath": "panel.html"
+    }
+  ]
+}

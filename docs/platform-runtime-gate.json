@@ -1,0 +1,11 @@
+{
+  "product": "artboard-batch-export-queue",
+  "title": "アートボード一括書き出しキュー",
+  "domain": "AdobePlugin",
+  "ideaNo": 5,
+  "platformType": "adobe-host-plugin",
+  "expectedPublicTarget": "BOOTH / GitHub Release",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}

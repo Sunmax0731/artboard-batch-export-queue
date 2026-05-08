@@ -1,0 +1,32 @@
+{
+  "product": "artboard-batch-export-queue",
+  "repository": "Sunmax0731/artboard-batch-export-queue",
+  "githubUrl": "https://github.com/Sunmax0731/artboard-batch-export-queue",
+  "tag": "v0.1.0-alpha.1",
+  "releaseUrl": "https://github.com/Sunmax0731/artboard-batch-export-queue/releases/tag/v0.1.0-alpha.1",
+  "prerelease": true,
+  "latest": false,
+  "assetCount": 3,
+  "assets": [
+    "artboard-batch-export-queue-docs.zip",
+    "manual-test.md",
+    "strict-manual-test-addendum.md"
+  ],
+  "platformRuntimeGate": "dist/platform-runtime-gate-result.json",
+  "platformType": "adobe-host-plugin",
+  "manualTest": "not-run-by-codex",
+  "qcdsEvaluation": {
+    "Quality": "S-",
+    "Cost": "S-",
+    "Delivery": "S-",
+    "Satisfaction": "S-",
+    "capReason": "manual-test-not-run-by-codex"
+  },
+  "github": {
+    "repo": "Sunmax0731/artboard-batch-export-queue",
+    "url": "https://github.com/Sunmax0731/artboard-batch-export-queue",
+    "releaseUrl": "https://github.com/Sunmax0731/artboard-batch-export-queue/releases/tag/v0.1.0-alpha.1",
+    "prerelease": true,
+    "latest": false
+  }
+}
